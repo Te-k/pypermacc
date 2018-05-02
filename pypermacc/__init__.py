@@ -1,1 +1,1 @@
-from .api import Permacc, PermaccError
+from .api import Permacc, PermaccError, PermaccPrivateKeyRequired
