@@ -4,6 +4,9 @@ Python3 wrapper for the perma.cc API (partial implementation, pull requests welc
 
 ## Installation
 
+Install from pypi : `pip install pypermacc`
+
+Install from the source code :
 ```
 git clone https://github.com/Te-k/pypermacc.git
 cd pypermaa
